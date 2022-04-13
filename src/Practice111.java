@@ -3,6 +3,8 @@ public class Practice111 { // burayi yanlis yazdik yada degistirmek gerekiyor sa
 
     //step 1
 
+    // step 2
+
 }
 /*
 ## Git Day 3:
