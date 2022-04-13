@@ -1,6 +1,7 @@
 public class Practice111 { // burayi yanlis yazdik yada degistirmek gerekiyor sa Amend
     //commit yapiyoruz, ve histrory actigimizda da 1 tane dosya gönermis olacaz
 
+    //step 1
 
 }
 /*
